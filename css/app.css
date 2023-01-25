@@ -1,5 +1,5 @@
 a {
-    color: currentColor;
+    color: white;
     text-decoration: none;
 }
 /*****NAVBAR RULES****/
@@ -20,5 +20,12 @@ a {
 
 .side_bg li:hover{
     background-color: #E5E5E5;
+}
+
+/****MACROAREA****/
+
+.pills_bg{
+    background-color: #165BBA;
+    font-size: 13px;
 }
 
