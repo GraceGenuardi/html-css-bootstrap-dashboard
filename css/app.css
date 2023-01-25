@@ -1,4 +1,7 @@
-
+a {
+    color: currentColor;
+    text-decoration: none;
+}
 /*****NAVBAR RULES****/
 
 .research-color {
@@ -11,5 +14,11 @@
     background-image: url(../img/sidebar-bg.png);
     background-size: cover;
     background-color: #051E34;
+}
+
+/*HOVER*/
+
+.side_bg li:hover{
+    background-color: #E5E5E5;
 }
 
