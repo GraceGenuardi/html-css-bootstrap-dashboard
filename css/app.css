@@ -1,7 +1,4 @@
-a {
-    color: white;
-    text-decoration: none;
-}
+
 /*****NAVBAR RULES****/
 
 .research-color {
@@ -14,6 +11,11 @@ a {
     background-image: url(../img/sidebar-bg.png);
     background-size: cover;
     background-color: #051E34;
+}
+
+.sidebar a {
+    color: white;
+    text-decoration: none;
 }
 
 /*HOVER*/
@@ -34,7 +36,7 @@ a {
 }
 
 .name_card p {
-    font-size: 12px;
+    font-size}: 12px;
 }
 
 .card_faq {
